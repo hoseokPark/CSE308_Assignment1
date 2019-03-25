@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">cse308</string>
+    <string name="title_activity_gpstracker">Map</string>
+
+    <string name="facebook_app_id">412912489486948</string>
+    <string name="fb_login_protocol_scheme">fb412912489486948</string>
+    <string name="title_activity_account">Account</string>
+
+</resources>
